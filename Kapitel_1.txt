@@ -1,0 +1,7 @@
+Detta är det första avsnittet vi skriver för att testa de olika funktionerna i git/github och lära oss att administrera
+ett repository på github. Att prova detta kommer kanske att räta ut en del frågetecken som finns, och om inte annat
+ge oss ett tillfälle att leka lite med git lokalt.
+
+Nu börjar första testet, jag har kört git add på den version av filen som bara innehöll ovanstående text. Nu när jag lägger
+till detta ska vi se vad git status ger för resultat.
+

@@ -5,3 +5,4 @@ ge oss ett tillfälle att leka lite med git lokalt.
 Nu börjar första testet, jag har kört git add på den version av filen som bara innehöll ovanstående text. Nu när jag lägger
 till detta ska vi se vad git status ger för resultat.
 
+Nu lägger jag till ytterligare lite text utan någon mening.
